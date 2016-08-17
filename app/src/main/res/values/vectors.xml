@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <string name="vector_plus">M19,13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z</string>
+    <string name="vector_check">M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41,-1.41z</string>
+    -->
+    <string name="vector_plus">M 19.0,13.0 h -6.0 v 6.0 h -2.0 v -6.0 H 5.0 v -2.0 h 6.0 V 5.0 h 2.0 v 6.0 h 6.0 v 2.0 L 19.0,13.0 l 0.0,0.0 L 19.0,13.0 L 19.0,13.0 l 0.0,0.0 L 19.0,13.0</string>
+    <string name="vector_check">M 9.0,16.17 h 0.0 v 0.0 h 0.0 v 0.0 H 9.0 v 0.0 h 0.0 V 16.17 h 0.0 v 0.0 h 0.0 v 0.0 L 4.83,12.0 l -1.42,1.41 L 9.0,19.0 L 21.0,7.0 l -1.41,-1.41 L 9.0,16.17</string>
+</resources>
